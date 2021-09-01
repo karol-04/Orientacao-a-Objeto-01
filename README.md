@@ -1,2 +1,3 @@
 # Orientacao-a-Objeto-01
-Curso sobre orientação a objeto com a linguagem de C#, primeira aula de linguagem de programação sobre esse assunto.
+Primeira aula de linguagem de programação do curso sobre orientação a objeto com a linguagem de C#
+Karolaine Bonifácio Teodoro, Turma 35DS
