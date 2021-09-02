@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\bin\Debug\netcoreapp3.1\Programa1.exe
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\bin\Debug\netcoreapp3.1\Programa1.deps.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\bin\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\bin\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\obj\Debug\netcoreapp3.1\Programa1.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\obj\Debug\netcoreapp3.1\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\obj\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\obj\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-Objeto-01\Programa1\obj\Debug\netcoreapp3.1\Programa1.genruntimeconfig.cache
